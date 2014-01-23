@@ -9,3 +9,4 @@
  */
 require_once dirname(__FILE__ ) . '/examples/post-meta-text/post-meta-text.php';
 require_once dirname(__FILE__ ) . '/examples/comment-count/comment-count.php';
+require_once dirname(__FILE__ ) . '/examples/custom-taxonomy/custom-taxonomy.php';
